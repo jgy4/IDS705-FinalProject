@@ -34,6 +34,15 @@ Algorithmic trading takes many forms. In the past, people preferred technical in
 
 ### Results
 
+#### ML Results
+
+![ML_Results](https://user-images.githubusercontent.com/26104722/115993182-4ba7ff80-a5ef-11eb-939d-4270cc69115f.png)
+
+
+### Technical Indicator Results
+
+![Technical_Indicators_Results](https://user-images.githubusercontent.com/26104722/115993137-126f8f80-a5ef-11eb-8c36-1edf28094201.png)
+
 
 ### Conclusion
 
